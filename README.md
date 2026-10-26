@@ -1,2 +1,16 @@
-# Module-6-Individual-Code-Review-and-Documentation-Project
-Refactoring and documenting an undocumented Python script without changing its output. Includes descriptive PEP 8 names, PEP 257 docstrings, list comprehensions, str.join, and named constants, plus CODE_REVIEW.md with initial and final reviews and DECISIONS.md explaining the reasoning behind each change. Run: python3 undocumented_script.py
+# Python Code Refactoring
+
+A Python script that doubles even numbers, triples odd numbers, and changes the case of words based on their length. The script has been refactored with clearer names, docstrings and simpler code.
+
+## How to Run
+
+```bash
+python3 undocumented_script.py
+```
+
+Expected output:
+
+```
+Processed Numbers: [3, 4, 9, 8, 15, 12, 21]
+Processed Strings: apple BANANA kiwi GRAPEFRUIT CHERRY
+```
