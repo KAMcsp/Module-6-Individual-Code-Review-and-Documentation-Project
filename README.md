@@ -1,0 +1,2 @@
+# Module-6-Individual-Code-Review-and-Documentation-Project
+Refactoring and documenting an undocumented Python script without changing its output. Includes descriptive PEP 8 names, PEP 257 docstrings, list comprehensions, str.join, and named constants, plus CODE_REVIEW.md with initial and final reviews and DECISIONS.md explaining the reasoning behind each change. Run: python3 undocumented_script.py
